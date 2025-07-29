@@ -1,6 +1,7 @@
 // import * as cdk from 'aws-cdk-lib';
 // import { Template } from 'aws-cdk-lib/assertions';
 // import * as CdkBuildTest from '../lib/cdk-build-test-stack';
+import { test } from 'vitest';
 
 // example test. To run these tests, uncomment this file along with the
 // example resource in lib/cdk-build-test-stack.ts
