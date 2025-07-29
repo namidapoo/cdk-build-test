@@ -2,7 +2,7 @@
   "name": "cdk-build-test",
   "version": "0.1.0",
   "bin": {
-    "cdk-build-test": "bin/cdk-build-test.js"
+    "cdk-build-test": "dist/bin/cdk-build-test.js"
   },
   "scripts": {
     "build": "tsc",
